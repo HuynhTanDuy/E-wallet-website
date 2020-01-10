@@ -1019,7 +1019,7 @@ h3 {
 
 /* line 124, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #42B3FA;
+  background: #609CE1;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 500;
@@ -1191,8 +1191,8 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: rgba(255, 255, 255, 0.96);
-  background: #000;
+  
+  background: #091D34;
 }
 
 @media (max-width: 767px) {
@@ -1553,7 +1553,7 @@ h3 {
   font-size: 46px;
   line-height: 60px;
   font-weight: 300;
-  color: #2C2C2C;
+  color: #133863;
 }
 
 @media (max-width: 767px) {
@@ -1584,7 +1584,7 @@ h3 {
 .features_area .features_info2 p {
   font-size: 16px;
   line-height: 28px;
-  color: #727272;
+  color: #236AB9;
   margin-bottom: 22px;
   line-height: 30px;
   margin-top: 20px;
@@ -1644,7 +1644,7 @@ h3 {
   font-size: 46px;
   line-height: 60px;
   font-weight: 300;
-  color: #2C2C2C;
+  color: #133863;
 }
 
 @media (max-width: 767px) {
@@ -1696,7 +1696,7 @@ h3 {
 .features_area .features_info p {
   font-size: 16px;
   line-height: 28px;
-  color: #727272;
+  color: #236AB9;
   margin-bottom: 22px;
   margin-top: 28px;
 }
@@ -1724,7 +1724,7 @@ h3 {
 .features_area .features_info ul li {
   font-size: 16px;
   line-height: 28px;
-  color: #727272;
+  color: #236AB9;
   position: relative;
   padding-left: 28px;
   margin-bottom: 5px;
@@ -2676,7 +2676,7 @@ h3 {
 .footer .footer_top {
   padding-top: 117px;
   padding-bottom: 205px;
-  background: #1F1F1F;
+  background: #091D34;
 }
 
 @media (max-width: 767px) {
@@ -3474,7 +3474,7 @@ h3 {
   /* FF3.6-15 */
   background: -webkit-linear-gradient(left, #fdae5c 0%, #fd8e5e 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #fdae5c 0%, #fd8e5e 100%);
+  background: linear-gradient(to right, #236AB9 0%, #133863 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdae5c', endColorstr='#fd8e5e',GradientType=1 );
   /* IE6-9 */
@@ -3489,7 +3489,7 @@ h3 {
   /* FF3.6-15 */
   background: -webkit-linear-gradient(left, #37ef8d 0%, #37ef8d 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #37ef8d 0%, #37ef8d 100%);
+  background: linear-gradient(to right, #133863 0%, #091D34 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#37ef8d', endColorstr='#37ef8d',GradientType=1 );
   /* IE6-9 */
@@ -3577,14 +3577,14 @@ h3 {
 .service_area_2 .service_content_wrap .single_service span {
   font-size: 18px;
   font-weight: 300;
-  color: #0181F5;
+  color: #133863;
 }
 
 /* line 102, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 .service_content_wrap .single_service h3 {
   font-size: 24px;
   font-weight: 400;
-  color: #2C2C2C;
+  color: #133863;
   margin-bottom: 12px;
   margin-top: 8px;
 }
@@ -3594,7 +3594,7 @@ h3 {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
-  color: #727272;
+  color: #236AB9;
 }
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_experts.scss */
@@ -3876,7 +3876,7 @@ h3 {
 
 /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
 .prising_area .single_prising .prising_header.green_header {
-  background: #E8FCF1;
+  background: #236AB9;
 }
 
 /* line 46, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
@@ -3886,7 +3886,7 @@ h3 {
 
 /* line 50, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
 .prising_area .single_prising .prising_header.pink_header {
-  background: #FEF4EE;
+  background: #609CE1;
 }
 
 /* line 52, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
@@ -3904,7 +3904,7 @@ h3 {
 .prising_area .single_prising ul li {
   font-size: 16px;
   line-height: 30px;
-  color: #727272;
+  color: #236AB9;
   margin-bottom: 30px;
 }
 
@@ -7095,5 +7095,6 @@ h6 {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
 
 /*# sourceMappingURL=style.css.map */
